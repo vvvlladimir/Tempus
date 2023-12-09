@@ -121,7 +121,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
+utils/.env
 .venv
 env/
 venv/
@@ -154,6 +154,6 @@ dmypy.json
 cython_debug/
 
 .idea/
-/.env
+/utils/.env
 /test.py
 logs/
